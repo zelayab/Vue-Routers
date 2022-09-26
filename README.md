@@ -3,6 +3,10 @@
 This is a simple guide to use vue-router withs comments in spanish on each page in the src code
 This template should help get you started developing with Vue 3 in Vite.
 
+### also
+install node and use node server.js to use node server.
+Change if you want to practice the file server.js
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
