@@ -1,5 +1,6 @@
 #  vue-router
-
+#  a simple guide
+This is a simple guide to use vue-router withs comments in spanish on each page in the src code
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
